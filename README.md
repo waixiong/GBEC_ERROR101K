@@ -1,19 +1,19 @@
 # GBEC_ERROR101K
 
-##Project Title
+## Project Title
 
 Title of your hackathon project
-##Project Description
+## Project Description
 
 Brief outline of your idea, what problem it solves, and how it works.
-##Submission
+## Submission
 
 Link to Slides : (either of ppt of pdf is fine)
 Link to Code : (public git repository url)
-##Team Members and Contact info
+## Team Members and Contact info
 
 Team Member: Github username, email
 ...
-##Any additional info you might want to share now
+## Any additional info you might want to share now
 
 Link to video recording of your demo or public URL of your porject.
